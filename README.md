@@ -1,8 +1,7 @@
 - 👋 Hi, I’m JSHZT
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on algorithm design
-- 📫 My email: hzt3016@gmail.com
+- 👀 微信：hzt3016
+- 📫 邮箱: hzt3016@gmail.com
+- 💞️ 请多多指教！！
 
 <!---
 JSHZT/JSHZT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
