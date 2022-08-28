@@ -2,7 +2,10 @@
 
 ### Hi there 👋 , welcome to my space！
 
-- 📌: Focusing on Python & Javascript
-- 🔨: Contacting with Machine Learning for SLGR
-- 🐏: Member of the GreenIsland organization
+- 📌: Focusing on Python & C++
+- 🔨: Contacting with Deep Learning for computer vision
+- 🐏: Member of the GDUT
+- 📱:to contact me
+-   wechat:hzt3016
+-   email: hzt3016@gmail.com
 
