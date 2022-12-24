@@ -5,4 +5,4 @@
 - 📌: Focusing on Python & C++
 - 🔨: Contacting with Deep Learning for CV
 - 🐏: Member of the GDUT
-- 📱: wechat:hzt3016 or email:hzt3016@gmail.com
+- 📱: email:hzt3016@gmail.com
