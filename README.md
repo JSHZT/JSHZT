@@ -3,6 +3,6 @@
 ### Hi there 👋 , welcome to my space！
 
 - 📌: Focusing on Python & C++
-- 🔨: Contacting with Deep Learning for CV
-- 🐏: Member of the GDUT
+- 🔨: Working on Deep Learning for Computer Vision
+- 🐏: Master’s student at Xidian University, affiliated with the Big Data and Visual Intelligence Institute
 - 📱: email:hzt3016@gmail.com
